@@ -1,1 +1,3 @@
 During the Neural Networks course, I developed a project entitled "Development of an Experimental Color Recognition Simulator" using the Python programming language. I implemented a neural network that utilizes the laptop camera to identify predefined colors. To compensate for variations in hues caused by brightness and the angle of object positioning, I devised a neural network that continuously trains using preexisting data stored in a CSV file, aiming to maximize color recognition accuracy. Additionally, I created a web interface for data visualization.
+
+You can have a look at the project: https://youtu.be/xTm7FDWus34
